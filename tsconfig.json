@@ -6,6 +6,7 @@
     "sourceMap": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
+    "moduleResolution": "node",
     "declaration": true,
     "lib": [
       "dom",
